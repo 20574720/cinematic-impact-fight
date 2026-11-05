@@ -1,0 +1,6 @@
+interface:
+  display_name: "电影重击打斗导演"
+  short_description: "编排有重量、快节奏与清楚空间关系的电影打斗，兼顾受击表演与动态摄影"
+  default_prompt: "使用 $cinematic-impact-fight，根据我的人物、场景和时长写一段完整的电影打斗提示词。"
+policy:
+  allow_implicit_invocation: true
